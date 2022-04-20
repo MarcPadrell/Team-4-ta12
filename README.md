@@ -4,6 +4,7 @@ Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 Ejercicios asignados: 04, 10, 16 <br>
 <br>
 Ej04 Borja: <br>
+<img src="https://cdn.discordapp.com/attachments/959500501957877760/966295185266991134/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/847955516524331009/966366690772394084/unknown.png">
 <br><br>
 Ej10 Marc P: <br>
