@@ -3,12 +3,12 @@ Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 <br>
 Ejercicios asignados: 04, 10, 16 <br>
 <br>
-Ej04 Borja: <br>
+Ej04: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966295185266991134/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/847955516524331009/966366690772394084/unknown.png">
 <br><br>
-Ej10 Marc P: <br>
+Ej10: <br>
 <img src="https://cdn.discordapp.com/attachments/665624216586158100/966368321136099398/UD12-Ejercicio_4.drawio.png">
 <br><br>
-Ej16 Marc N: <br>
+Ej16: <br>
 <img src="link a la foto aqui">
