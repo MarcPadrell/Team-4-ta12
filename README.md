@@ -9,6 +9,8 @@ Ej04: <br>
 <br><br>
 Ej10: <br>
 <img src="https://cdn.discordapp.com/attachments/665624216586158100/966622963287863306/Exercici-10-ta12.drawio.png">
+Model relacional: <br>
+![image](https://user-images.githubusercontent.com/79224406/164423346-d632586e-b2cd-4486-b6ce-0ade096c0c06.png)
 <br><br>
 Ej16: <br>
 ![image](https://user-images.githubusercontent.com/103039613/164343445-79358ed2-0add-4427-a67e-f03d2309e3f0.png)
