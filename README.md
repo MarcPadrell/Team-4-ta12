@@ -5,7 +5,7 @@ Ejercicios asignados: 04, 10, 16 <br>
 <br>
 Ej04: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966295185266991134/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/847955516524331009/966366690772394084/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/959500501957877760/966605328827420712/unknown.png">
 <br><br>
 Ej10: <br>
 <img src="https://cdn.discordapp.com/attachments/665624216586158100/966368321136099398/UD12-Ejercicio_4.drawio.png">
