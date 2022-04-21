@@ -5,7 +5,7 @@ Ejercicios asignados: 04, 10, 16 <br>
 <br>
 Ej04: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966295185266991134/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/959500501957877760/966605328827420712/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/959500501957877760/966640721157320774/unknown.png">
 <br>
 Modelo Relacional: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966636834782347274/unknown.png">
