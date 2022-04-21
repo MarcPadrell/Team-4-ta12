@@ -12,4 +12,5 @@ Ej10: <br>
 <br><br>
 Ej16: <br>
 ![image](https://user-images.githubusercontent.com/103039613/164343445-79358ed2-0add-4427-a67e-f03d2309e3f0.png)
-![image](https://user-images.githubusercontent.com/103039613/164344053-5bac2cb8-6ebc-46ed-a444-ea90d12bc30a.png)
+![image](https://user-images.githubusercontent.com/103039613/164405181-52be24f1-cbfd-4334-b8d0-682a6250b66e.png)
+
