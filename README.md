@@ -15,7 +15,11 @@ Ej04: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966641394435391568/unknown.png">
 <br>
 Modelo Relacional: <br>
-<img src="https://cdn.discordapp.com/attachments/959500501957877760/966636834782347274/unknown.png">
+`PAIS(ID_PAIS [PK], NUM_AÑOS_NO_INDEPENDIENTE, ES_INDEPENDIENTE)`<br>
+`FORMAR(ID_PAIS[FK], ID_NOMBRE_BANDO[FK])`<br>
+`BANDO(ID_NOMBRE_BANDO [PK], ID_PAIS[FK])`<br>
+`REALIZAR(ID_NOMBRE_BANDO [FK], ID_GUERRA [FK])`<br>
+`GUERRA(ID_GUERRA [PK], NOMBRE_GUERRA, AÑO_INICIO, AÑO_FINAL, ID_BANDO_GANADOR[FK], ID_BANDO_PERDEDOR[FK])`
 <br><br>
 Ej10: <br>
 Diagrama Entitat-Relació:
