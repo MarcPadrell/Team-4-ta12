@@ -1,7 +1,7 @@
 # TA12 - Diagramas ER
 Team 4: Marc Nebot, Borja Montseny i Marc Padrell
 
-Ejercicios iniciales asignados: 04, 16, 16.
+Ejercicios iniciales asignados: 4, 10, 16.
 
 ## Ejercicios realizados por Borja: 4, 6, 7, 17, 11, 18
 
@@ -103,7 +103,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![ta12-ex-09 drawio](https://user-images.githubusercontent.com/79224406/164502225-9cddf273-ff90-4a7d-a9d7-091f4bb3d869.png)
 
 **Ejercicio 10**
 
