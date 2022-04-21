@@ -12,3 +12,5 @@ Ej10: <br>
 <br><br>
 Ej16: <br>
 <img src="link a la foto aqui">
+![image](https://user-images.githubusercontent.com/103039613/164343445-79358ed2-0add-4427-a67e-f03d2309e3f0.png)
+![image](https://user-images.githubusercontent.com/103039613/164344053-5bac2cb8-6ebc-46ed-a444-ea90d12bc30a.png)
