@@ -109,21 +109,17 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-![Exercici-10-ta12 drawio (1)](https://user-images.githubusercontent.com/79224406/164423783-ce10b2a3-93f5-4661-99df-ebb0c1b22a3d.png)
+![Exercici-10-ta12 drawio (2)](https://user-images.githubusercontent.com/79224406/164505436-abf1b8cd-1f99-4c56-8832-d68dc11fd7b7.png)
 
 Model relacional: <br>
 
-![image](https://user-images.githubusercontent.com/79224406/164423346-d632586e-b2cd-4486-b6ce-0ade096c0c06.png)
+![image](https://user-images.githubusercontent.com/79224406/164505371-b5265815-b903-417f-8a2b-aa1d0411c83a.png)
 
 **Ejercicio 12**
 
 Diagrama Entidad - Relación:
 
-![image](https://user-images.githubusercontent.com/103039613/164432849-e4cd3f12-692b-4b03-bf63-3e58cf8b4e9c.png)
 
-Modelo Relacional:
-
-![image](https://user-images.githubusercontent.com/103039613/164432954-76efa8e5-d687-4575-a4ea-7cbb67426158.png)
 
 **Ejercicio 15**
 
