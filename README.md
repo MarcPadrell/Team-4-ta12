@@ -119,7 +119,7 @@ Model relacional: <br>
 
 Diagrama Entidad - Relación:
 
-
+![ta12-ex-12 drawio](https://user-images.githubusercontent.com/79224406/164509036-5a3af0a6-4e44-4b4d-bb2a-a3c32530df13.png)
 
 **Ejercicio 15**
 
