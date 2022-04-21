@@ -20,4 +20,6 @@ Model relacional: <br>
 <br><br>
 Ej16: <br>
 ![image](https://user-images.githubusercontent.com/103039613/164343445-79358ed2-0add-4427-a67e-f03d2309e3f0.png)
-![image](https://user-images.githubusercontent.com/103039613/164405181-52be24f1-cbfd-4334-b8d0-682a6250b66e.png)
+![image](https://user-images.githubusercontent.com/103039613/164432849-e4cd3f12-692b-4b03-bf63-3e58cf8b4e9c.png)
+
+![image](https://user-images.githubusercontent.com/103039613/164432954-76efa8e5-d687-4575-a4ea-7cbb67426158.png)
