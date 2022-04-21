@@ -8,6 +8,7 @@ Ej04: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966605328827420712/unknown.png">
 <br><br>
 Ej10: <br>
+Diagrama Entitat-Relació:
 
 ![Exercici-10-ta12 drawio (1)](https://user-images.githubusercontent.com/79224406/164423783-ce10b2a3-93f5-4661-99df-ebb0c1b22a3d.png)
 Model relacional: <br>
