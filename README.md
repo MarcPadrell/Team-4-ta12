@@ -125,5 +125,6 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
+![ta12-ex-15 drawio](https://user-images.githubusercontent.com/79224406/164510333-e98b31bf-3d24-4aa2-b4ef-661820996e5e.png)
 
 
