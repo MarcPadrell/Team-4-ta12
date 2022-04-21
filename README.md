@@ -6,6 +6,9 @@ Ejercicios asignados: 04, 10, 16 <br>
 Ej04: <br>
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966295185266991134/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966605328827420712/unknown.png">
+<br>
+Modelo Relacional: <br>
+<img src="https://cdn.discordapp.com/attachments/959500501957877760/966636834782347274/unknown.png">
 <br><br>
 Ej10: <br>
 Diagrama Entitat-Relació:
@@ -18,4 +21,3 @@ Model relacional: <br>
 Ej16: <br>
 ![image](https://user-images.githubusercontent.com/103039613/164343445-79358ed2-0add-4427-a67e-f03d2309e3f0.png)
 ![image](https://user-images.githubusercontent.com/103039613/164405181-52be24f1-cbfd-4334-b8d0-682a6250b66e.png)
-
