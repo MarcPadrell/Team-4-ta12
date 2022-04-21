@@ -97,7 +97,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![ta12-ex-08 drawio](https://user-images.githubusercontent.com/79224406/164491025-a351d4c4-995e-45c0-bda4-c517672e71d2.png)
 
 **Ejercicio 9**
 
