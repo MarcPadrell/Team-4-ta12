@@ -40,7 +40,8 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![Ejercicio18TA12 drawio](https://user-images.githubusercontent.com/68342939/164784100-3e62b244-eeb4-4f14-9550-e59eab110d68.png)
+<br>
 
 **Ejercicio 18**
 
