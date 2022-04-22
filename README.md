@@ -112,11 +112,11 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-![Exercici-10-ta12 drawio (2)](https://user-images.githubusercontent.com/79224406/164505436-abf1b8cd-1f99-4c56-8832-d68dc11fd7b7.png)
+![ta12-ex-10 drawio](https://user-images.githubusercontent.com/79224406/164705090-0acbc53f-0c4e-4878-a563-f5354ef8a7e0.png)
 
 Model relacional: <br>
 
-![image](https://user-images.githubusercontent.com/79224406/164505371-b5265815-b903-417f-8a2b-aa1d0411c83a.png)
+![image](https://user-images.githubusercontent.com/79224406/164705299-d7495109-b22a-4ba1-a026-a0914ebadbee.png)
 
 **Ejercicio 12**
 
