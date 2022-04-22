@@ -15,11 +15,14 @@ Modelo Relacional:
 
 <img src="https://cdn.discordapp.com/attachments/959500501957877760/966652562637987860/unknown.png">
 
+<hr>
+
 **Ejercicio 6**
 
 Diagrama Entidad - Relación:
+![Ejercicio6TA12 drawio (1)](https://user-images.githubusercontent.com/68342939/164627859-889eb3c4-70ad-44d2-8ede-cda0acd33207.png)
 
-
+<hr>
 
 **Ejercicio 7**
 
