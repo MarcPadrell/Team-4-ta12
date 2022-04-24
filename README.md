@@ -9,7 +9,8 @@ Ejercicios iniciales asignados: 4, 10, 16.
 
 Diagrama Entidad - Relación:
 
-<img src="https://cdn.discordapp.com/attachments/959500501957877760/966641394435391568/unknown.png">
+<img src="https://user-images.githubusercontent.com/68342939/164973334-691f8663-a708-41e1-9fc3-ec1c1febdcf5.png">
+
 
 Modelo Relacional:
 
