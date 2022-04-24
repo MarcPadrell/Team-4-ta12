@@ -28,21 +28,22 @@ Diagrama Entidad - Relación:
 **Ejercicio 7**
 
 Diagrama Entidad - Relación:
+![Ejercicio7TA12 drawio](https://user-images.githubusercontent.com/68342939/164996573-2fba00a8-75f3-449f-8349-148127a9f757.png)
 
-
+<hr>
 
 **Ejercicio 11**
 
 Diagrama Entidad - Relación:
 
-
+<hr>
 
 **Ejercicio 17**
 
 Diagrama Entidad - Relación:
 
 ![Ejercicio18TA12 drawio](https://user-images.githubusercontent.com/68342939/164784100-3e62b244-eeb4-4f14-9550-e59eab110d68.png)
-<br>
+<hr>
 
 **Ejercicio 18**
 
@@ -89,6 +90,7 @@ Modelo Relacional:
 
 Diagrama Entidad - Relación:
 
+<hr>
 
 ## Ejercicios realizados por Marc Padrell: 2, 8, 9, 10, 12, 15
 
