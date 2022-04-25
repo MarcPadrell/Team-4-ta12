@@ -122,6 +122,11 @@ Model relacional: <br>
 
 ![image](https://user-images.githubusercontent.com/79224406/164705299-d7495109-b22a-4ba1-a026-a0914ebadbee.png)
 
+Diagrama Entitat - Relació MySQL:
+
+![image](https://user-images.githubusercontent.com/79224406/165075176-44a14482-cb88-4e53-9f78-92fce0cbb08f.png)
+
+
 **Ejercicio 12**
 
 Diagrama Entidad - Relación:
