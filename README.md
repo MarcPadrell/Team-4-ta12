@@ -36,6 +36,9 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
+![ejercicio11TA12 drawio](https://user-images.githubusercontent.com/68342939/165628045-38893030-afa4-4a22-9872-c7b9ef4779e3.png)
+
+
 <hr>
 
 **Ejercicio 17**
