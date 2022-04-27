@@ -9,7 +9,7 @@ Ejercicios iniciales asignados: 4, 10, 16.
 
 Diagrama Entidad - Relación:
 
-<img src="https://user-images.githubusercontent.com/68342939/164973334-691f8663-a708-41e1-9fc3-ec1c1febdcf5.png">
+![ejercicio4TA12](https://user-images.githubusercontent.com/68342939/165636877-de655d72-887b-4ecb-a547-f0611f3a41a5.png)
 
 
 Modelo Relacional:
