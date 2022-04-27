@@ -63,13 +63,13 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/103039613/165641077-3a1963f2-ee96-4335-a7fa-28bac7314e7e.png)
 
 **Ejercicio 5**
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/103039613/165640994-0ce10354-250a-4aa1-8795-1b2a6811406d.png)
 
 **Ejercicio 13**
 
@@ -81,7 +81,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-
+![image](https://user-images.githubusercontent.com/103039613/165640921-e9db3057-551b-4d10-a738-303061e2cb61.png)
 
 **Ejercicio 16**
 
