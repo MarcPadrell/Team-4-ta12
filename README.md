@@ -87,7 +87,7 @@ Diagrama Entidad - Relación:
 
 Diagrama Entidad - Relación:
 
-![image](https://user-images.githubusercontent.com/103039613/164432849-e4cd3f12-692b-4b03-bf63-3e58cf8b4e9c.png)
+![image](https://user-images.githubusercontent.com/103039613/165641284-37c9501f-0b59-4c94-80f4-92dfbf8fecf9.png)
 
 Modelo Relacional:
 
