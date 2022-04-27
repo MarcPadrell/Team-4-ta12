@@ -94,8 +94,6 @@ Modelo Relacional:
 ![image](https://user-images.githubusercontent.com/103039613/165641610-8fdc2774-d59f-406c-8a5f-e83bcf15c9b9.png)
 
 
-![image](https://user-images.githubusercontent.com/103039613/164432954-76efa8e5-d687-4575-a4ea-7cbb67426158.png)
-
 **Ejercicio 18**
 
 Diagrama Entidad - Relación:
