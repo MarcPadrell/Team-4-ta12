@@ -94,13 +94,6 @@ Modelo Relacional:
 
 ![image](https://user-images.githubusercontent.com/103039613/165641610-8fdc2774-d59f-406c-8a5f-e83bcf15c9b9.png)
 
-
-**Ejercicio 18**
-
-Diagrama Entidad - Relación:
-
-<hr>
-
 ## Ejercicios realizados por Marc Padrell: 2, 8, 9, 10, 12, 15
 
 **Ejercicio 2**
